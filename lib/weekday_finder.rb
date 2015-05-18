@@ -19,7 +19,7 @@ class String
       elsif current_date.saturday?()
         "Saturday"
       else
-          "Sunday"
-      end
+        "Sunday"
+    end
   end
 end
